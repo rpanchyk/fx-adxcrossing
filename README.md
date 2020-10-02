@@ -9,7 +9,7 @@ Indicator shows possible BUY/SELL entry points by ADX cossing.
 ## Configuration
 Available settings of indicator:
 
-![config](releases/1.1/AdxCrossingINGM_config.png)
+![config](releases/1.2/AdxCrossingINGM_config.png)
 
 ## Usage
 Make a decision for BUY/SELL order using signals of indicator:
