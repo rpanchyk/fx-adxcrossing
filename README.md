@@ -1,4 +1,4 @@
-# Forex ADX Crossing Indicator
+# Forex ADX Crossing Indicator for MT4
 Indicator shows possible BUY/SELL entry points by ADX cossing.
 
 ## Installation
